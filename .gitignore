@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build artifacts
+build/
+dist/
+
+# Generated media exports (keep placeholders tracked)
+assets/screenshots/*.mp4
+assets/demo/*.mp4
+assets/demo/*.mov

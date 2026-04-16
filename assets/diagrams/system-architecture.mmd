@@ -1,0 +1,13 @@
+flowchart TD
+    U[User Input] --> V[SwiftUI Views]
+    V --> VM[ViewModels\nState + Presentation Logic]
+    VM --> S[Services Layer\nDomain Operations]
+    S --> F[(Firebase Auth + Firestore)]
+    S --> CF[Cloud Functions\nServer-side Orchestration]
+    CF --> OAI[OpenAI API]
+    OAI --> CF
+    CF --> F
+    F --> VM
+    VM --> V
+
+    W[Widgets] --> F
