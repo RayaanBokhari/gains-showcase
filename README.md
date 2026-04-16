@@ -32,6 +32,9 @@ GAINS is a mobile product that combines structured health tracking (calories, ma
 | Profile and goals view | `assets/screenshots/profile-view.png` | User settings and goal configuration surface for personalization. |
 | AI Coach chat | `assets/screenshots/ai-coach.png` | Context-aware nutrition coaching and progress guidance. |
 | Workout calendar | `assets/screenshots/workout-calendar.png` | Weekly training consistency and schedule visibility. |
+| Start workout flow | `assets/screenshots/start-workout-view.png` | Session kickoff UX for selecting and launching a workout. |
+| Add exercise flow | `assets/screenshots/add-exercise-view.png` | In-session exercise search and add workflow for structured logging. |
+| Workout history view | `assets/screenshots/historic-workout-view.png` | Historical workout timeline for reviewing training consistency. |
 | Exercise progress | `assets/screenshots/exercise-progress.png` | Performance trends for key lifts and sessions. |
 | Social features | `assets/screenshots/social.png` | Community-oriented accountability and motivation features. |
 
