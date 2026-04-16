@@ -26,16 +26,14 @@ GAINS is a mobile product that combines structured health tracking (calories, ma
 
 ## Demo / Visuals
 
-> Replace placeholders with your real app screenshots/GIFs before publishing.
-
 | Visual | File Path | Intended Caption |
 |---|---|---|
 | Dashboard + daily summary | `assets/screenshots/dashboard.png` | Daily nutrition and progress snapshot designed for quick decision-making. |
-| Meal logging flow | `assets/screenshots/meal-logging.png` | Fast-entry nutrition logging with macro and calorie updates. |
+| Profile and goals view | `assets/screenshots/profile-view.png` | User settings and goal configuration surface for personalization. |
 | AI Coach chat | `assets/screenshots/ai-coach.png` | Context-aware nutrition coaching and progress guidance. |
-| Workout progress | `assets/screenshots/workout-progress.png` | Exercise tracking and progression visibility over time. |
-
-- Demo GIF/video can be added in `assets/demo/` (or linked from YouTube/Loom).
+| Workout calendar | `assets/screenshots/workout-calendar.png` | Weekly training consistency and schedule visibility. |
+| Exercise progress | `assets/screenshots/exercise-progress.png` | Performance trends for key lifts and sessions. |
+| Social features | `assets/screenshots/social.png` | Community-oriented accountability and motivation features. |
 
 ## Problem
 
